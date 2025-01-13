@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br><br>I'm Mars, an LLM Enthusiast, Automotive Security Researcher, and Web Penetration Tester.<br><br>Programming Experience;<br><br>Python: 4 years<br><br>LUAU: 2-3 years<br><br>Node.js: 1 year<br><br>C (GPC): 2 years<br><br>Go: 1-2 years<br><br>
+<br><br>I'm Mars, an LLM Enthusiast, Automotive Security Researcher, and Web Penetration Tester.<br><br>Programming Experience;<br><br>Python: 4 years<br><br>LUAU: 2-3 years<br><br>Node.js: 1 year<br><br>C (GPC): 2 years<br><br>Go(GCC+CGO): 1-2 years<br><br>
 
 
 ## 🌐 Socials:
